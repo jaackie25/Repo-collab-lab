@@ -19,9 +19,11 @@ HEAD
 
 new task:
 add a hand emoji
+👩🏻‍💻 TL
 
 
 add a flag emoji
+🇧🇷 TL
 
 
 
